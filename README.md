@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Bookerchilltime
+- 👀 I’m interested in data mining
+- 🌱 I’m currently learning python
